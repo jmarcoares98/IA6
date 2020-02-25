@@ -96,7 +96,8 @@ class App extends React.Component{
                         react is a hard language to learn in a short period of time,
                         but hey.. we are here now and im learning this bs and hopefully
                         i get a good grade for this. i am honestly super tired. 
-                        but it is what is.
+                        but it is what is. now for IA6 i need more commits so im adding this,
+                        even though i am done with the assignment.
                     </p>
                     <p>follow me in instagram to support me<a
                     href="https://www.instagram.com/jmarcoares/" target="_blank">@jmarcoares</a>
